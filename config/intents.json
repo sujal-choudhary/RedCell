@@ -1,0 +1,47 @@
+{
+  "information_gathering": [
+    "find information",
+    "gather information",
+    "information",
+    "recon",
+    "reconnaissance",
+    "scan",
+    "details",
+    "details about",
+    "whois",
+    "dns",
+    "headers"
+  ],
+
+  "vulnerability_analysis": [
+    "vulnerability",
+    "vulnerabilities",
+    "analyze",
+    "analysis",
+    "security check",
+    "check security",
+    "weakness",
+    "misconfiguration"
+  ],
+
+  "exploit": [
+    "exploit",
+    "attack",
+    "hack",
+    "breach"
+  ],
+
+  "report": [
+    "generate report",
+    "create report",
+    "report",
+    "summary"
+  ],
+
+  "help": [
+    "help",
+    "what can you do",
+    "commands",
+    "usage"
+  ]
+}
